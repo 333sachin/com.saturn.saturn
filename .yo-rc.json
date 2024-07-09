@@ -1,0 +1,18 @@
+{
+  "generator-ui5-project": {
+    "namespaceUI5": "com.saturn",
+    "projectName": "saturn",
+    "uimoduleName": "books",
+    "enableFPM": true,
+    "enableTypescript": true,
+    "enableFioriTools": true,
+    "platform": "Application Router",
+    "ui5Libs": "Local resources (SAPUI5)",
+    "newDir": true,
+    "initRepo": false,
+    "projectId": "com.saturn.saturn",
+    "uimodules": [
+      "books"
+    ]
+  }
+}
